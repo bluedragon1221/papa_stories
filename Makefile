@@ -20,7 +20,5 @@ $(BUILD_DIR)/index.html: gen/gen_index.sh | $(BUILD_DIR)
 		--template template.html \
 		-o "$@"
 
-all: make_dirs $(HTMLTARGETS) $(BUILD_DIR)/index.html
-
-.PHONY: make_dirs all
-
+all: $(HTMLTARGETS) $(BUILD_DIR)/index.html
+.PHONY: all
