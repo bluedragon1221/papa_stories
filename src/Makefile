@@ -1,28 +1,26 @@
-BUILD_DIR = _build
+BUILD_DIR ?= build
 
-MARKDOWNFILES != find md/ -type f -name "*.md"
+MARKDOWNFILES = $(wildcard md/*.md)
 HTMLTARGETS = $(MARKDOWNFILES:md/%.md=$(BUILD_DIR)/stories/%.html)
 
-$(BUILD_DIR)/stories/%.html: md/%.md
+$(BUILD_DIR)/stories $(BUILD_DIR):
+	mkdir -p $@
+
+$(BUILD_DIR)/stories/%.html: md/%.md | $(BUILD_DIR)/stories
 	pandoc "$<" \
 		--standalone \
 		--embed-resources \
 		--template template.html \
 		-o "$@"
 
-$(BUILD_DIR)/index.html: make_index.md.sh
+$(BUILD_DIR)/index.html: gen/gen_index.sh | $(BUILD_DIR)
 	bash $< | pandoc \
 		--standalone \
 		--embed-resources \
 		--template template.html \
 		-o "$@"
 
-make_dirs:
-	mkdir -p $(BUILD_DIR)/stories
-
 all: make_dirs $(HTMLTARGETS) $(BUILD_DIR)/index.html
 
-clean:
-	rm -rf $(BUILD_DIR)
+.PHONY: make_dirs all
 
-.PHONY: clean make_dirs all up

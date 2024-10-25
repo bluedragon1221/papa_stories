@@ -31,9 +31,9 @@
       devShells.${system}.default = pkgs.mkShell {
         buildInputs = with pkgs; [
           pandoc
-          ripgrep
           http-server
           shellcheck
+          checkmake
           gnumake
         ];
       };
