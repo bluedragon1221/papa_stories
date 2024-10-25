@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Dem Bones</title>
+    <style type="text/css">
+html {
+font-size: 100%;
+overflow-y: scroll;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+}
+body {
+color: #444;
+font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+font-size: 12px;
+line-height: 1.7;
+padding: 1em;
+margin: auto;
+max-width: 42em;
+background: #fefefe;
+}
+a {
+color: #0645ad;
+text-decoration: none;
+}
+a:visited {
+color: #0b0080;
+}
+a:hover {
+color: #06e;
+}
+a:active {
+color: #faa700;
+}
+a:focus {
+outline: thin dotted;
+}
+*::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+*::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+a::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+a::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+p {
+margin: 1em 0;
+}
+img {
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+color: #111;
+line-height: 125%;
+margin-top: 2em;
+font-weight: normal;
+}
+h4, h5, h6 {
+font-weight: bold;
+}
+h1 {
+font-size: 2.5em;
+}
+h2 {
+font-size: 2em;
+}
+h3 {
+font-size: 1.5em;
+}
+h4 {
+font-size: 1.2em;
+}
+h5 {
+font-size: 1em;
+}
+h6 {
+font-size: 0.9em;
+}
+blockquote {
+color: #666666;
+margin: 0;
+padding-left: 3em;
+border-left: 0.5em #EEE solid;
+}
+hr {
+display: block;
+height: 2px;
+border: 0;
+border-top: 1px solid #aaa;
+border-bottom: 1px solid #eee;
+margin: 1em 0;
+padding: 0;
+}
+pre, code, kbd, samp {
+color: #000;
+font-family: monospace, monospace;
+_font-family: 'courier new', monospace;
+font-size: 0.98em;
+}
+pre {
+white-space: pre;
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+b, strong {
+font-weight: bold;
+}
+dfn {
+font-style: italic;
+}
+ins {
+background: #ff9;
+color: #000;
+text-decoration: none;
+}
+mark {
+background: #ff0;
+color: #000;
+font-style: italic;
+font-weight: bold;
+}
+sub, sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
+}
+ul, ol {
+margin: 1em 0;
+padding: 0 0 0 2em;
+}
+li p:last-child {
+margin-bottom: 0;
+}
+ul ul, ol ol {
+margin: .3em 0;
+}
+dl {
+margin-bottom: 1em;
+}
+dt {
+font-weight: bold;
+margin-bottom: .8em;
+}
+dd {
+margin: 0 0 .8em 2em;
+}
+dd:last-child {
+margin-bottom: 0;
+}
+img {
+border: 0;
+-ms-interpolation-mode: bicubic;
+vertical-align: middle;
+}
+figure {
+display: block;
+text-align: center;
+margin: 1em 0;
+}
+figure img {
+border: none;
+margin: 0 auto;
+}
+figcaption {
+font-size: 0.8em;
+font-style: italic;
+margin: 0 0 .8em;
+}
+table {
+margin-bottom: 2em;
+border-bottom: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-spacing: 0;
+border-collapse: collapse;
+}
+table th {
+padding: .2em 1em;
+background-color: #eee;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+}
+table td {
+padding: .2em 1em;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+vertical-align: top;
+}
+.author {
+font-size: 1.2em;
+text-align: center;
+}
+@media only screen and (min-width: 480px) {
+body {
+font-size: 14px;
+}
+}
+@media only screen and (min-width: 768px) {
+body {
+font-size: 16px;
+}
+}
+@media print {
+* {
+background: transparent !important;
+color: black !important;
+filter: none !important;
+-ms-filter: none !important;
+}
+body {
+font-size: 12pt;
+max-width: 100%;
+}
+a, a:visited {
+text-decoration: underline;
+}
+hr {
+height: 1px;
+border: 0;
+border-bottom: 1px solid black;
+}
+a[href]:after {
+content: " (" attr(href) ")";
+}
+abbr[title]:after {
+content: " (" attr(title) ")";
+}
+.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+content: "";
+}
+pre, blockquote {
+border: 1px solid #999;
+padding-right: 1em;
+page-break-inside: avoid;
+}
+tr, img {
+page-break-inside: avoid;
+}
+img {
+max-width: 100% !important;
+}
+@page :left {
+margin: 15mm 20mm 15mm 10mm;
+}
+@page :right {
+margin: 15mm 10mm 15mm 20mm;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3 {
+page-break-after: avoid;
+}
+}
+</style>
+  </head>
+  <body>
+    <a href="/">« Back</a>
+    <h1>Dem Bones</h1>
+    <p>Life Lessons: We become the sum of our choices.</p>
+    <p>Thankfully, I’ve never suffered a broken bone in my life, but
+    Lori and several of our children have. The most recent occurrence
+    was Lori’s wobbly-rock incident at Girl’s Camp that resulted in a
+    shiny new stainless-steel plate in her left wrist. She now has a
+    small collection of metal objects in her body, but I’m not the least
+    bit jealous. I think perhaps the artificial lenses in my eyes trump
+    the metal she has in her wrist and hip.<br />
+    <br />
+    Lori’s broken wrist got me to pondering over the children’s broken
+    bones. I’ve decided to write about the time Emily broke her arm. I
+    think there is a life lesson in there somewhere, but only where you
+    would least expect it.<br />
+    <br />
+    We were living in our first house in American Fork, Utah. It was a
+    starter house neighborhood with mostly young families and tons of
+    young children roaming the neighborhood. Emily was probably about 5
+    years old at the time. As young kids will do, Emily had climbed a
+    fence and was demonstrating her balancing skills by walking like a
+    tight rope walker along the top of the fence. I don’t remember who
+    the culprit was, but some other neighborhood child thought it would
+    be funny to chuck his shoe at Emily in an attempt to make her fall
+    off the fence. I don’t even know if he was successful in hitting his
+    target, but he was successful at making Emily fall off the fence.
+    She came home with her forearm bent at an impossible angle. It was
+    quite apparent that some bones had been broken and we needed to get
+    her to the emergency room in a hurry.<br />
+    <br />
+    Not having a sitter for the other kids, Lori and I loaded up the
+    other two children and Emily in the car and headed to the hospital.
+    The treatment for the broken arm seemed rather bizarre to me. They
+    put Emily’s fingers in metal springs that worked like Chinese
+    handcuffs to suspend her hand in the air. They then hung a bucket
+    from her elbow and started adding water to it to use the weight to
+    stretch her forearm as they tried to re-align the broken bones prior
+    to adding the cast. I believe they gave Emily some laughing gas to
+    calm her down, but it didn’t work and she was making a pretty big
+    fuss the whole time. It was all very stressful to watch my own child
+    suffer so much and the procedure was taking a very long time. Lori
+    suggested that she could stay with Emily at the hospital and I could
+    take the other children back home. My nerves were a little bit
+    frazzled by the harrowing experience so I was glad to comply with
+    the suggestion.<br />
+    <br />
+    I took Ryan and Megan back to the car and loaded them into the back
+    seat. Now this was before the days when seat belts and child car
+    seats were required and my children were quite used to roaming free
+    whenever they were in the car with us. It was also before we were
+    affluent enough to afford a car with air-conditioning, so the
+    windows were down as we left the hospital parking lot. Not long
+    after leaving the parking lot, I could see Megan in my rear-view
+    mirror. She was standing on the seat and quite happy with herself
+    for her accomplishment. Recognizing that this was a dangerous thing
+    for a three-year-old to do and not wanting to have to pay for two
+    broken bones on the same day, I told her fairly firmly to sit down
+    on the seat. Well Megan wasn’t about to comply while she was quite
+    enjoying her newly discovered ability to see the world go by from a
+    much better vantage point. I told her again with even more volume
+    and probably a good deal of anger in my voice to sit down. Again, no
+    result.<br />
+    <br />
+    Because I was driving and Megan was in the back seat, I realized I
+    couldn’t do much under these circumstances to enforce my command to
+    my non-compliant child. So, with a bit of steam coming out of my
+    ears, I pulled over to the curb and braked hard to bring the car to
+    a stop. I turned around and yelled, “Megan, sit down!” as I rather
+    roughly pushed her into a sitting position in the back seat. Megan
+    wasn’t any too thrilled about this kind of treatment and immediately
+    started to holler over the affront to her 3-year-old dignity.<br />
+    <br />
+    Satisfied I had reaffirmed that my authority was not to be trifled
+    with, I looked up and discovered I had stopped right in front of a
+    house where some kind of barbeque event was going on in the front
+    yard. Everyone in the party was looking at me with a look of shock
+    and horror on their faces. I was totally mortified to realize that
+    they all had witnessed my little tirade in front of their house.
+    Fortunately, this was before the days when everyone had cell phones
+    and took videos of such spectacles so they could go viral on the
+    internet. However, my shame at being caught in the act by so many
+    witnesses was such that I determined to high-tail it out of there as
+    fast as I could. I put the car in gear and put the pedal to the
+    metal to make my get-away.<br />
+    <br />
+    Thinking about this memory more than 30 years later, I can recognize
+    the life lesson I didn’t really learn at the time of its occurrence.
+    I wasn’t really mortified by my lack of gentleness and patience with
+    Megan. I was mostly mortified that my little outburst had been seen
+    by others. I wonder how I would have behaved if I had remembered
+    that everything we do here in mortality is being observed by
+    someone. It all goes into the Book of Life and becomes a part of the
+    permanent record. Our choices become a part of our soul and the
+    cumulative effect determines who we become. I think this is one
+    reason why marriage is such a vital part of this mortal experience.
+    We have a built-in witness to our lives and a greater motivation to
+    try to behave well in front of our companion on the covenant
+    path.</p>
+  </body>
+</html>
