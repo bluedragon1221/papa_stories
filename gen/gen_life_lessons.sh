@@ -13,7 +13,7 @@ for i in $(find md -maxdepth 1 -name "*.md" -printf '%f\n'); do
     lesson=$(sed -nE 's/^lesson: "?([^"]+)"?$/\1/p' "md/$i")
     filename="${i%.*}"
 
-    [ -n "$lesson" ] && echo "$lesson" | tr ";" "\n" | xargs -I {} -d'\n' printf "| {} | [$title](/stories/${filename}.html) |\n"
+    [ -n "$lesson" ] && echo "$lesson" | tr ";" "\n" | xargs -I {} -d'\n' printf "| {} | [$title](stories/${filename}.html) |\n"
   ) &
 done
 
