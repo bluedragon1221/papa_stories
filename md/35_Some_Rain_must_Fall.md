@@ -1,6 +1,9 @@
 ---
 title: Some Rain Must Fall
+lesson: Some sorrow will be experiences by everyone in this life. It's all part of the plan
 ---
+
+<!-- TODO: remove escaped characters -->
 
 The saying goes, \"Into every life some rain must fall.\" As I look back
 I would have to say very little rain has fallen into my life. When Lori

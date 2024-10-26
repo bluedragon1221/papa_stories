@@ -1,5 +1,6 @@
 ---
 title: The Knot Hole in the Old Wooden Bridge
+lesson: Be a hero and lift others up
 ---
 
 Circa 1958

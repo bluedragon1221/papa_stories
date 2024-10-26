@@ -1,5 +1,6 @@
 ---
 title: Win Friends and Influence People
+lesson: The soft-spoken approach beats yelling every time
 ---
 
 _Mom had a special knack for teaching without using undue drama. The

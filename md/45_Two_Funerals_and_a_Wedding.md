@@ -1,5 +1,6 @@
 ---
 title: Two Funerals and a Wedding
+lesson: Death is not a tragedy in the eternal perspective
 ---
 
 The first two funerals I attended in my life were years and miles apart.

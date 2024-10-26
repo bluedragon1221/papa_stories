@@ -1,5 +1,6 @@
 ---
 title: Encounter with a Stubborn Tree
+lesson: Nothing matters more than loving relationships with family members
 ---
 
 Winter, 1997

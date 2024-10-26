@@ -1,6 +1,6 @@
 ---
 title: Dan's Hobbies in High School
-moral: We all come from humble beginnings. Keep the humility throughout your life
+lesson: We all come from humble beginnings. Keep the humility throughout your life
 ---
 
 Basically, I was the classical definition of a nerd. Judge for

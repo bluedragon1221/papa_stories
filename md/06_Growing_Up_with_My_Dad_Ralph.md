@@ -1,5 +1,6 @@
 ---
 title: Growing Up with My Dad Ralph
+lesson: Take live's bumps and bruises with a chuckle
 ---
 
 Times were tough when I was a little boy, but I never had a single clue

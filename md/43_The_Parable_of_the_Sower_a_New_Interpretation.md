@@ -1,10 +1,9 @@
 ---
 title: "The Parable of the Sower: a New Interpretation"
+lesson: We can choose how we react to adversity. Adversity will ultimately make us stronger
 ---
 
-Life Lessons: We can choose how we react to adversity.
-
-Adversity will ultimately make us stronger.
+<!-- TODO: image formatting and escape characters -->
 
 Easter Sunday, April 21, 2019\
 \

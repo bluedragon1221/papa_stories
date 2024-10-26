@@ -1,5 +1,6 @@
 ---
 title: Dynamite and the Old Snag
+lesson: Don't trust your eyes. look upon the heart
 ---
 
 _I can't remember the precise time of this memory. My best guess is that

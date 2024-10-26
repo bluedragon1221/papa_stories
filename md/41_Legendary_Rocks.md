@@ -1,9 +1,9 @@
 ---
 title: Legendary Rocks
+lesson: Rely on God's appraisals for what has real value in this life
 ---
 
-Life Lesson: Rely on God's appraisals for what has real value in this
-life.
+<!-- TODO: Fix image formatting -->
 
 One of my favorite duties as a grandfather is taking the grandchildren
 on exciting expeditions in the river bottoms near the homestead house in

@@ -1,8 +1,7 @@
 ---
 title: Dem Bones
+lesson: We become the sum of our choice
 ---
-
-Life Lessons: We become the sum of our choices.
 
 Thankfully, I've never suffered a broken bone in my life, but Lori and
 several of our children have. The most recent occurrence was Lori's

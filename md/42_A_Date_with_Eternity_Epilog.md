@@ -1,9 +1,9 @@
 ---
-title: A Date with Eternity Epilogue
+title: "A Date with Eternity: Epilogue"
+lesson: Do things every day to retain that vital eternal perspective that aids our smaller daily decisions.
 ---
 
-Life Lesson: Do things every day to retain that vital eternal
-perspective that aids our smaller daily decisions.
+<!-- TODO: Escape characters and image formatting -->
 
 This story is a follow-on to the original article. It will be an
 addition of insights that have come with the perspective of time. I

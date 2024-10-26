@@ -1,5 +1,6 @@
 ---
 title: Dan's Mission in Brazil
+lesson: The power of giving compliments to lift others up
 ---
 
 It's been over 47 years since I left home to go preach the gospel in

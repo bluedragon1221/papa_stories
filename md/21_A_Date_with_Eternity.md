@@ -1,5 +1,6 @@
 ---
 title: A Date with Eternity
+lesson: Be cheerful in the face of adversity
 ---
 
 I was in my junior year of the engineering program at Brigham Young

@@ -1,5 +1,6 @@
 ---
 title: The Volkswagen that Couldn't
+lesson: The best way to triumph when you have been assaulted or abused is to adopt an attitude of forgiveness
 ---
 
 1978

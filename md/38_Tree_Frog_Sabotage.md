@@ -1,9 +1,7 @@
 ---
 title: Tree Frog Sabotage
+lesson: Give the knot-heads the benefit of the doubt
 ---
-
-Life Lesson: Give the knot-heads the benefit of the doubt. They may have
-a good reason for their behavior.
 
 I was really irritated. Most of my friends kid me about being able to
 detect a mood change. Lori tells me that the best indicator to her is my

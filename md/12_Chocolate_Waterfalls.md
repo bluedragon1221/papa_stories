@@ -1,5 +1,6 @@
 ---
 title: Chocolate Waterfalls
+lesson: Don't take simple blessings you enjoy every day for granted. Be grateful for simple blessings
 ---
 
 Just after my 20th birthday, in the summer of 1973, I decided to take

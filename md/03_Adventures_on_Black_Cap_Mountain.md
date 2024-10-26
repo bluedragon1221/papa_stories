@@ -1,5 +1,6 @@
 ---
 title: Adventures on Black Cap Mountain
+lesson: Example of prayer, confirm your love to others
 ---
 
 I was born in a dusty little desert town in Southern Oregon called

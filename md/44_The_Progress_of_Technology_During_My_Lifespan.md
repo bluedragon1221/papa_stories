@@ -1,5 +1,6 @@
 ---
 title: The Progress of Technology During my Lifespan
+lesson: The brilliance we can find with our hearts will always far outshine that which can be produced by the minds of this world
 ---
 
 This article is a collection of memories about various technologies that

@@ -1,5 +1,6 @@
 ---
 title: "Essential Ingredients of Life: Food and Love"
+lesson: Money and riches are not vital to happiness
 ---
 
 When I was growing up in Lakeview, food was a simple affair, but it was

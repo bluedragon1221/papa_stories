@@ -1,5 +1,6 @@
 ---
 title: Emily's War Dance for Hurricane Bob
+lesson: Don't let worry distract you from the magnificence of nature and unbridled emotional exuberance
 ---
 
 August 20, 1991

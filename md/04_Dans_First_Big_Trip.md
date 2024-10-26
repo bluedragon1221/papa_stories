@@ -1,5 +1,6 @@
 ---
 title: Dan's First Big Trip
+lesson: Be content with simple blessings
 ---
 
 Big adventures that took us far from home were not a part of my early

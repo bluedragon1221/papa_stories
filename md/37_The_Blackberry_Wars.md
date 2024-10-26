@@ -1,12 +1,8 @@
 ---
 title: The Blackberry Wars
+lesson: Take care of a problem early before it becomes a monster.;Opposition enhances our appreciation of the good times.;Adversity is our friend, not our enemy. Embrace it.
 ---
 
-Life Lessons:
-
-- Take care of a problem early before it becomes a monster.
-- Opposition enhances our appreciation of the good times.
-- Adversity is our friend, not our enemy. Embrace it.
 
 Since Lori and I moved into the Ridgefield homestead house in the summer
 of 2006, I have been waging a war with the deadly blackberry invasion

@@ -1,8 +1,7 @@
 ---
 title: A Critter in the House
+lesson: Compassion and forgiveness are better than anger
 ---
-
-Life Lesson: Compassion and Forgiveness are better than anger.
 
 This story happened in the Maine house, probably about 1996. As far as
 I can remember, I was the only person at home, which was a very rare

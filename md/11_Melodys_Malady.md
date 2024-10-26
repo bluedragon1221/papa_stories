@@ -1,5 +1,6 @@
 ---
 title: Melody's Malady
+lesson: Serve others to heal your troubled soul
 ---
 
 By Han Ying
