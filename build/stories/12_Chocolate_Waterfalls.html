@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Chocolate Waterfalls</title>
+    <style type="text/css">
+html {
+font-size: 100%;
+overflow-y: scroll;
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+}
+body {
+color: #444;
+font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+font-size: 12px;
+line-height: 1.7;
+padding: 1em;
+margin: auto;
+max-width: 42em;
+background: #fefefe;
+}
+a {
+color: #0645ad;
+text-decoration: none;
+}
+a:visited {
+color: #0b0080;
+}
+a:hover {
+color: #06e;
+}
+a:active {
+color: #faa700;
+}
+a:focus {
+outline: thin dotted;
+}
+*::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+*::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #000;
+}
+a::-moz-selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+a::selection {
+background: rgba(255, 255, 0, 0.3);
+color: #0645ad;
+}
+p {
+margin: 1em 0;
+}
+img {
+max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6 {
+color: #111;
+line-height: 125%;
+margin-top: 2em;
+font-weight: normal;
+}
+h4, h5, h6 {
+font-weight: bold;
+}
+h1 {
+font-size: 2.5em;
+}
+h2 {
+font-size: 2em;
+}
+h3 {
+font-size: 1.5em;
+}
+h4 {
+font-size: 1.2em;
+}
+h5 {
+font-size: 1em;
+}
+h6 {
+font-size: 0.9em;
+}
+blockquote {
+color: #666666;
+margin: 0;
+padding-left: 3em;
+border-left: 0.5em #EEE solid;
+}
+hr {
+display: block;
+height: 2px;
+border: 0;
+border-top: 1px solid #aaa;
+border-bottom: 1px solid #eee;
+margin: 1em 0;
+padding: 0;
+}
+pre, code, kbd, samp {
+color: #000;
+font-family: monospace, monospace;
+_font-family: 'courier new', monospace;
+font-size: 0.98em;
+}
+pre {
+white-space: pre;
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+b, strong {
+font-weight: bold;
+}
+dfn {
+font-style: italic;
+}
+ins {
+background: #ff9;
+color: #000;
+text-decoration: none;
+}
+mark {
+background: #ff0;
+color: #000;
+font-style: italic;
+font-weight: bold;
+}
+sub, sup {
+font-size: 75%;
+line-height: 0;
+position: relative;
+vertical-align: baseline;
+}
+sup {
+top: -0.5em;
+}
+sub {
+bottom: -0.25em;
+}
+ul, ol {
+margin: 1em 0;
+padding: 0 0 0 2em;
+}
+li p:last-child {
+margin-bottom: 0;
+}
+ul ul, ol ol {
+margin: .3em 0;
+}
+dl {
+margin-bottom: 1em;
+}
+dt {
+font-weight: bold;
+margin-bottom: .8em;
+}
+dd {
+margin: 0 0 .8em 2em;
+}
+dd:last-child {
+margin-bottom: 0;
+}
+img {
+border: 0;
+-ms-interpolation-mode: bicubic;
+vertical-align: middle;
+}
+figure {
+display: block;
+text-align: center;
+margin: 1em 0;
+}
+figure img {
+border: none;
+margin: 0 auto;
+}
+figcaption {
+font-size: 0.8em;
+font-style: italic;
+margin: 0 0 .8em;
+}
+table {
+margin-bottom: 2em;
+border-bottom: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-spacing: 0;
+border-collapse: collapse;
+}
+table th {
+padding: .2em 1em;
+background-color: #eee;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+}
+table td {
+padding: .2em 1em;
+border-top: 1px solid #ddd;
+border-left: 1px solid #ddd;
+vertical-align: top;
+}
+.author {
+font-size: 1.2em;
+text-align: center;
+}
+@media only screen and (min-width: 480px) {
+body {
+font-size: 14px;
+}
+}
+@media only screen and (min-width: 768px) {
+body {
+font-size: 16px;
+}
+}
+@media print {
+* {
+background: transparent !important;
+color: black !important;
+filter: none !important;
+-ms-filter: none !important;
+}
+body {
+font-size: 12pt;
+max-width: 100%;
+}
+a, a:visited {
+text-decoration: underline;
+}
+hr {
+height: 1px;
+border: 0;
+border-bottom: 1px solid black;
+}
+a[href]:after {
+content: " (" attr(href) ")";
+}
+abbr[title]:after {
+content: " (" attr(title) ")";
+}
+.ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after {
+content: "";
+}
+pre, blockquote {
+border: 1px solid #999;
+padding-right: 1em;
+page-break-inside: avoid;
+}
+tr, img {
+page-break-inside: avoid;
+}
+img {
+max-width: 100% !important;
+}
+@page :left {
+margin: 15mm 20mm 15mm 10mm;
+}
+@page :right {
+margin: 15mm 10mm 15mm 20mm;
+}
+p, h2, h3 {
+orphans: 3;
+widows: 3;
+}
+h2, h3 {
+page-break-after: avoid;
+}
+}
+</style>
+  </head>
+  <body>
+    <a href="/">« Back</a>
+    <h1>Chocolate Waterfalls</h1>
+    <p>Just after my 20th birthday, in the summer of 1973, I decided to
+    take a course at BYU about desert survival. I spent about 30 days in
+    the deserts of Southern Utah learning how to live like a desert rat.
+    On one hot and sultry day, my group was walking through a dusty
+    little canyon when the skies started to grow very dark and ominous
+    looking. The wind started to pick up and began to blow sand and dust
+    into our faces. Our leaders told us that a thunderstorm was coming
+    our way and that it would be a good idea to try to find some
+    shelter. We found a little overhang of rock that afforded us just
+    enough room to stand underneath it as the thunderstorm arrived. It
+    was a nice spot to watch the show that nature was about to perform
+    for us.</p>
+    <p>The sky continued to darken as the thunder cell approached. Then
+    the rain began to fall. First, there were only a few big fat
+    raindrops that smacked into the rocks and dust, making little
+    plopping noises. Then, suddenly, the bottom dropped out of the
+    clouds as they dumped their heavy load of water right on top of us.
+    I was astonished to see our little canyon come alive with the motion
+    of rushing water. It seemed like the canyon walls almost instantly
+    erupted with a hundred waterfalls. These waterfalls were not the
+    beautiful crystal clear waterfalls you see in the pictures on
+    postcards. These were dark muddy brown waterfalls. They looked like
+    gushing streams of chocolate milk falling from every crack and
+    crevice in the canyon walls.</p>
+    <p>The lightning was as good as any fireworks show I have ever seen.
+    Huge branching forks of light stabbed the ground with a mighty
+    cracking noise. The sudden crack was followed immediately by a
+    bellowing boom that temporarily drowned out all the noise of rushing
+    water.</p>
+    <p>The gurgling little stream in the creek bed soon became a
+    boiling, rushing soup of muddy water mixed with all sorts of desert
+    debris. It was deep enough to soak our hiking boots, but we had no
+    fear of being swept away by the current. Fortunately, our little
+    overhang kept the rest of our clothing fairly dry as the thunder
+    cell did its best to impress us with its prowess. Almost, but not
+    quite as quickly as it arrived, the thunder cell moved on and the
+    show was over. Within 20 minutes, the skies began to clear and the
+    sun came out again. Everything returned to normal except for one
+    thing. The water in the creek was still 6 to 8 inches deep and
+    covered most of the creek bed in the floor of the canyon. As we
+    picked up our gear and resumed our march, we had to slosh through
+    the muddy water instead of walk on nice dry sand as before.</p>
+    <p>As we marched on, it slowly began to dawn on me that the creek
+    was our only source of drinking water in the desert. With some
+    measure of alarm, I realized that my water canteen was nearly empty.
+    I began to imagine the worst. I imagined that the muddy brown goop
+    that we were presently walking in was probably contaminated by all
+    sorts of disgusting toxic stuff like drowned jack rabbits, dead
+    scorpions and coyote poo. I couldn’t bear the thought of drinking
+    such a foul brew. I uttered a silent prayer in my heart. Please let
+    me find some other source of drinking water before my canteen runs
+    dry. That night I went to sleep with a fervent hope that a new day
+    would bring a miracle. My canteen was now empty.</p>
+    <p>I slept fitfully on a little shelf of rock under another overhang
+    in the canyon. It was about 20 feet above the level of the canyon
+    floor. When I awoke the next morning, I peered over the edge of the
+    shelf to check out the water. My heart sank when I saw that the
+    water still looked like dark chocolate milk.</p>
+    <p>Expecting to die of some terrible disease, I slowly picked my way
+    down to the water’s edge with my canteen. Maybe I could find a quiet
+    little pool where the water wasn’t quite so nasty looking. To my
+    utter amazement and delight, I found a tiny little spring of water
+    bubbling up out of the ground just a few feet from the edge of the
+    creek. As I filled my canteen, my heart filled with gratitude. The
+    water was cool and clear and tasted refreshingly like the mineral
+    water you can get in an expensive restaurant. To this day, I have
+    never looked at a glass of water quite the same and I certainly will
+    never again take such a simple blessing for granted.</p>
+  </body>
+</html>
