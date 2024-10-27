@@ -4,9 +4,88 @@
     <meta charset="utf-8">
     <title>$title$</title>
     <link rel="stylesheet" href="./pandoc.css">
+    $if(toc)$
+    <style>
+      /* Container for positioning */
+      .container {
+        position: relative;
+        margin: 0 auto;
+      }
+
+      /* Main content stays the same as original */
+      .content {
+        margin: auto;
+        max-width: 42em;
+        padding: 0em;
+      }
+
+      /* Sidebar floats to the right of the content */
+      .sidebar {
+        position: fixed;
+        top: 2em;
+        left: calc(50% + 22em); /* 50% + half of content width + small gap */
+        width: 250px;
+        height: fit-content;
+        padding: 1em;
+        background: #f8f8f8;
+        border-left: 1px solid #eee;
+        border-radius: 4px;
+      }
+
+      .toc {
+        font-size: 0.9em;
+      }
+
+      .toc h3 {
+        margin-top: 0;
+        font-size: 1.2em;
+        color: #333;
+      }
+
+      .toc ul {
+        list-style: none;
+        padding-left: 1em;
+        margin: 0.5em 0;
+      }
+
+      .toc li {
+        margin: 0.5em 0;
+        line-height: 1.4;
+      }
+
+      .toc a {
+        color: #666;
+        text-decoration: none;
+        transition: color 0.2s;
+      }
+
+      .toc a:hover {
+        color: #0645ad;
+      }
+
+      @media only screen and (max-width: 1200px) {
+        .sidebar {
+          display: none;
+        }
+      }
+    </style>
+    $endif$
   </head>
   <body>
-    <h1>$title$</h1>
-    $body$
+    <div class="container">
+      <main class="content">
+        <a href="..">« Back</a>
+        <h1>$title$</h1>
+        $body$
+      </main>
+      $if(toc)$
+      <nav class="sidebar">
+        <div class="toc">
+          <h3>Table of Contents</h3>
+          $toc$
+        </div>
+      </nav>
+      $endif$
+    </div>
   </body>
 </html>

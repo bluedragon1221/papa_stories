@@ -12,7 +12,8 @@ $(BUILD_DIR)/stories/%.html: md/%.md | $(BUILD_DIR)/stories
 	pandoc "$<" \
 		--standalone \
 		--embed-resources \
-		--template article_template.html \
+		--toc \
+		--template template.html \
 		-o "$@"
 
 
