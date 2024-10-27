@@ -3,21 +3,21 @@ title: Dan's Mission in Brazil
 lesson: The power of giving compliments to lift others up
 ---
 
-It's been over 47 years since I left home to go preach the gospel in
+_It's been over 47 years since I left home to go preach the gospel in
 Brazil. When it's been that long since a person has done something, it
 has "old geezer" written all over it. I guess instead of avoiding the
-truth I'll embrace my geezerhood and try to make the best of it.\
-\
+truth I'll embrace my geezerhood and try to make the best of it._
+
 Back in those days when a young man started to plan for college and a
 mission, you had to be 19 to even apply to go on a mission for the
 church. I was only 17 when I graduated from Ridgefield High school, so
 the only option was college. I attended one year at Clark Community
 College in Vancouver and then a second year of university at BYU,
 majoring in Electrical Engineering. During the summer of 1975, I decided
-to take a 30 day desert survival course and then go on my mission. I had
+to take a [30 day desert survival course](13_Survival_Journal_Introduction.html) and then go on my mission. I had
 already received my mission call to Brazil before leaving for the
-deserts of Southern Utah.\
-\
+deserts of Southern Utah.
+
 I believe it was late October when I entered the language training
 mission (LTM). I stayed there for the next 4 months, learning the
 missionary lessons and the Brazilian language. Normally, the time in the
@@ -25,18 +25,13 @@ LTM was only 2 months, but Brazil was very slow at approving our visas,
 so we got an extra two months to learn the language as we waited for
 Brazil to finish the paperwork.﻿
 
-![A picture containing snow, outdoor, building, house Description
-automatically
-generated](md/20_Dans_Mission_in_Brazil-media/media/image1.jpeg){width="5.697916666666667in"
-height="3.7937412510936133in" alt=""}
+![Allen Hall, lower campus at BYU](md/20_Dans_Mission_in_Brazil-media/media/image1.jpeg){width="5.5in"}
 
 ﻿This is Allen Hall, where we lived. It was located on the lower campus
 at BYU. The much bigger Missionary Training Center near the Provo temple
 didn't exist yet.﻿
 
-![A picture containing text, building, outdoor, person Description
-automatically
-generated](md/20_Dans_Mission_in_Brazil-media/media/image2.jpeg){width="5.75in"
+![My fellow elders](md/20_Dans_Mission_in_Brazil-media/media/image2.jpeg){width="5.75in"
 height="3.828639545056868in" alt=""}
 
 ﻿This is my district of fellow Elders. We studied together for many hours
@@ -76,8 +71,8 @@ One memory I have of this time was the bitter-sweet experience of
 spending Christmas at the LTM. I missed my family and President Lee, who
 signed my mission call, passed away the day after Christmas. We sang a
 lot of Christmas carols together and felt a wonderful spirit of serving
-together in the LTM.\
-\
+together in the LTM.
+
 When my visa was finally approved, I flew from Salt Lake City to Sao
 Paolo, Brazil. I then flew to Porto Alegre and finally took a bus to my
 first assignment in a city called Criciuma. I left Salt Lake City
@@ -181,8 +176,8 @@ family had planned for me at the Portland airport and I couldn't even
 get word to them about the delay. I arrived in Portland the next day
 with 1 dime in my pocket and was picked up by just my mother. It wasn't
 the big reception I could have had, but I was certainly glad to be back
-home again.\
-\
+home again.
+
 One of the last memories of my mission was of a sacrament meeting where
 I was asked to speak in the Porto Alegre ward. After finishing my talk,
 I sat down next to the stake president on the stand. He leaned over to

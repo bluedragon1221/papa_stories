@@ -63,8 +63,8 @@ we moved to Hermiston, Oregon.
 
 The following two stories occurred while I lived in Lakeview:
 
-1. [The Knothole in the Old Wooden Bridge](/stories/02_The_Knot_Hole_in_the_Old_Wooden_Bridge.html)
-2. [Adventures on Black Cap Mountain](/stories/03_Adventures_on_Black_Cap_Mountain.html)
+1. [The Knothole in the Old Wooden Bridge](02_The_Knot_Hole_in_the_Old_Wooden_Bridge.html)
+2. [Adventures on Black Cap Mountain](03_Adventures_on_Black_Cap_Mountain.html)
 
 ## Hermiston, Oregon
 Our first house in Hermiston was a tiny house, but we only lived there
@@ -123,8 +123,8 @@ place down.
 The following stories happened at this location. The story called Trees
 covered a period of many years, but started during this time.
 
-1. [Dan's First Big Trip](stories/04_Dans_First_Big_Trip.html)
-2. [Trees](/stories/07_Trees.html)
+1. [Dan's First Big Trip](04_Dans_First_Big_Trip.html)
+2. [Trees](07_Trees.html)
 
 ## Vancouver, Washington
 Dad was promoted to manager and was transferred to a new office in
@@ -145,7 +145,7 @@ for a year, but it made an impression.
 The following story happened in this house. However, it is listed as
 part of the group of pyrotechnic misadventures below.
 
-1. [The Match-Head Bomb](/stories/29_The_Match-Head_Bomb.html)
+1. [The Match-Head Bomb](29_The_Match-Head_Bomb.html)
 
 ## Ridgefield, Washington
 My father bought 60 acres from an old guy named Aquinas Fox for
@@ -166,10 +166,10 @@ and exploring.
 
 The following stories occurred at this location:
 
-1. [Trees](/stories/07_Trees.html)
-2. [Win Friends and Influence People](/stories/08_Win_Friends_and_Influence_People.html)
-3. [Dan's Hobbies in High School](/stories/09_Dans_Hobbies_in_High_School.html)
-4. [Dynamite and the Old Snag](/stories/10_Dynamite_and_the_Old_Snag.html)
+1. [Trees](07_Trees.html)
+2. [Win Friends and Influence People](08_Win_Friends_and_Influence_People.html)
+3. [Dan's Hobbies in High School](09_Dans_Hobbies_in_High_School.html)
+4. [Dynamite and the Old Snag](10_Dynamite_and_the_Old_Snag.html)
 
 ## Provo, Utah -- First year at BYU, Fall 1972 to Spring 1973
 I lived in the towers at BYU. This was a group of about 4 thirty-story
@@ -200,15 +200,15 @@ during the summer of 1973. The first two are descriptions of specific
 events. The rest are all extracts from the journal I kept while taking
 the course.
 
-1. [Melody's Malady](/stories/11_Melodys_Malady.html)
-2. [Chocolate Waterfalls](/stories/12_Chocolate_Waterfalls.html)
-3. [Survival Journal - Introduction](/stories/13_Survival_Journal_Introduction.html)
-4. [Survival Journal - Week One](/stories/14_Survival_Journal_Week1.html)
-5. [Survival Journal - Week Two](/stories/15_Survival_Journal_week2.html)
-6. [Survival Journal - Week Three](/stories/16_Survival_Journal_Week3.html)
-7. [Survival Journal - Week Four](/stories/17_Survival_Journal_Week4.html)
-8. [Survival Journal - Week Five](/stories/18_Survival_Journal_Week5.html)
-9. [Survival Journal - Final Paper](/stories/19_Survival_Journal_Final_Paper.html)
+1. [Melody's Malady](11_Melodys_Malady.html)
+2. [Chocolate Waterfalls](12_Chocolate_Waterfalls.html)
+3. [Survival Journal - Introduction](13_Survival_Journal_Introduction.html)
+4. [Survival Journal - Week One](14_Survival_Journal_Week1.html)
+5. [Survival Journal - Week Two](15_Survival_Journal_week2.html)
+6. [Survival Journal - Week Three](16_Survival_Journal_Week3.html)
+7. [Survival Journal - Week Four](17_Survival_Journal_Week4.html)
+8. [Survival Journal - Week Five](18_Survival_Journal_Week5.html)
+9. [Survival Journal - Final Paper](19_Survival_Journal_Final_Paper.html)
 
 ## Brazil -- Fall 1973 to Fall 1975
 I spent 4 months at the Language Training Mission and 20 months in
@@ -216,7 +216,7 @@ southern Brazil. It was a building experience for me because the
 Catholic church was so strong in those days that it was a real challenge
 to find people seeking the complete truth. See the article listed below.
 
-1. [Dan's Mission in Brazil](/stories/20_Dans_Mission_in_Brazil.html)
+1. [Dan's Mission in Brazil](20_Dans_Mission_in_Brazil.html)
 
 ## Provo, Utah -- 1976 to 1978. Roman Gardens student apartments
 We sarcastically called the complex the Roman Ruins because they were
@@ -275,8 +275,8 @@ descended from Lori and me.
 
 The following stories occurred while living at this location:
 
-1. [A Date with Eternity](/stories/21_A_Date_with_Eternity.html)
-2. [The Volkswagen That Couldn't](/stories/22_The_Volkswagen_that_Couldnt.html)
+1. [A Date with Eternity](21_A_Date_with_Eternity.html)
+2. [The Volkswagen That Couldn't](22_The_Volkswagen_that_Couldnt.html)
 
 ## Provo, Utah -- 1978 to 1980, married couples' apartments
 Lori and I were engaged on June 8, 1978, the same day the church
@@ -313,7 +313,7 @@ banished to outer Mongolia, but Maine turned out to be a wonderful place
 to raise our little family.
 
 The following stories occurred while living at this location:
-1. [Dem Bones](/stories/23_Dem_Bones.html)
+1. [Dem Bones](23_Dem_Bones.html)
 
 ## Windham, Maine -- 1989 to 2002, National Semiconductor, Fairchild Semiconductor
 They put us right to work in the Windham Ward, a very dedicated group of
@@ -325,15 +325,15 @@ years were some of the most rewarding of my life.
 
 The following stories occurred while living at this location:
 
-1. [Emily's War Dance for Hurricane Bob](/stories/24_Emilys_War_Dance_for_Hurricane_Bob.html)
-2. [Encounter with a Stubborn Tree](/stories/25_Encounter_with_a_Stubborn_Tree.html)
-3. [The Rogue Wave](/stories/26_The_Rogue_Wave.html)
-4. [A Critter in the House](/stories/27_A_Critter_in_the_House.html)
-5. [The Banana Peel Bomb](/stories/30_The_Banana_Peel_Bomb.html)
-6. [The Basement Window Non-Miss](/stories/34_The_Basement_Window_Non-Miss.html)
+1. [Emily's War Dance for Hurricane Bob](24_Emilys_War_Dance_for_Hurricane_Bob.html)
+2. [Encounter with a Stubborn Tree](25_Encounter_with_a_Stubborn_Tree.html)
+3. [The Rogue Wave](26_The_Rogue_Wave.html)
+4. [A Critter in the House](27_A_Critter_in_the_House.html)
+5. [The Banana Peel Bomb](30_The_Banana_Peel_Bomb.html)
+6. [The Basement Window Non-Miss](34_The_Basement_Window_Non-Miss.html)
 7. [Ricochet Rockets in the Basement](/31_Ricochet_Rockets_in_the_Basement.html)
-8. [The Wedding Proposal Fiasco](/stories/32_The_Wedding_Proposal_Fiasco.html)
-9. [The Picture Window Near Miss](/stories/33_The_Picture_Window_Near_Miss.html)
+8. [The Wedding Proposal Fiasco](32_The_Wedding_Proposal_Fiasco.html)
+9. [The Picture Window Near Miss](33_The_Picture_Window_Near_Miss.html)
 
 ## Fisher's Landing, Washington -- 2002 to 2006, Flipping houses with Dad, WSU
 These were some of the darker days of my life. The 2002 recession killed
@@ -390,13 +390,13 @@ go in October of 2018.
 
 The following stories occurred while living at this location:
 
-1. [Some Rain Must Fall](/stories/35_Some_Rain_must_Fall.html)
-2. [The Basement Window Non-Miss](/stories/34_The_Basement_Window_Non-Miss.html)
-3. [Rocket Scientists](/stories/36_Little_Rocket_Scientists.html)
-4. [The Blackberry Wars](/stories/37_The_Blackberry_Wars.html)
-5. [Tree Frog Sabotage](/stories/38_Tree_Frog_Sabotage.html)
-6. [Legendary Rocks](/stories/41_Legendary_Rocks.html)
-7. [The Parable of the Sower: A New Interpretation](/stories/43_The_Parable_of_the_Sower_a_New_Interpretation.html)
+1. [Some Rain Must Fall](35_Some_Rain_must_Fall.html)
+2. [The Basement Window Non-Miss](34_The_Basement_Window_Non-Miss.html)
+3. [Rocket Scientists](36_Little_Rocket_Scientists.html)
+4. [The Blackberry Wars](37_The_Blackberry_Wars.html)
+5. [Tree Frog Sabotage](38_Tree_Frog_Sabotage.html)
+6. [Legendary Rocks](41_Legendary_Rocks.html)
+7. [The Parable of the Sower: A New Interpretation](43_The_Parable_of_the_Sower_a_New_Interpretation.html)
 
 ## Meridian, Idaho -- 2018 to present
 After moving to Meridian, Idaho to live with our daughter, Emily Clark,

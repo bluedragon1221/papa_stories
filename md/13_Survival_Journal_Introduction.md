@@ -11,7 +11,7 @@ in its entirety in my life history. The following set of articles are
 almost verbatim copies of the journal I kept while attending the course.
 Other articles in this book are based on specific events from the course
 and have been embellished by my memory after more than 40 years have
-elapsed. (See [Melody's Malady](/stories/11_Melodys_Malady.html) and [Chocolate Waterfalls](/stories/12_Chocolate_Waterfalls.html)).
+elapsed. (See [Melody's Malady](11_Melodys_Malady.html) and [Chocolate Waterfalls](12_Chocolate_Waterfalls.html)).
 
 The events that led to my signing up for this course are unique. My
 brother Tom and I attended a fireside that was designed as a recruiting
@@ -30,14 +30,12 @@ Below I include two maps to pinpoint the location in Southeastern Utah
 where the course was held. The first shows the general area relative to
 familiar large cities in the state of Utah.
 
-![](md/13_Survival_Journal_Introduction-media/media/image1.jpeg){width="6.958333333333333in"
-height="6.958333333333333in" alt=""}
+![Zoomed-out image of the path we took](md/13_Survival_Journal_Introduction-media/media/image1.jpeg){width="6in"}
 
 The map below shows a more detailed zoom-in of the route we took from
 start to finish.
 
-![](md/13_Survival_Journal_Introduction-media/media/image2.jpeg){width="7.083333333333333in"
-height="5.087740594925634in" alt=""}
+![Zoomed-in version](md/13_Survival_Journal_Introduction-media/media/image2.jpeg){width="6in"}
 
 We started at Keg Knoll and ended in the town of Boulder. The total
 length of the trek was a little over 250 miles.
