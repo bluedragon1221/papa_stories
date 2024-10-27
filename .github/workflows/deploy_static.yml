@@ -3,11 +3,6 @@ name: Deploy Website to Github Pages
 on:
   push:
     branches: ["build"]
-    paths-ignore:
-      - '.github/*'
-      - 'README.md'
-      - 'BUILDING.md'
-      - 'STRUCTURE.md'
   workflow_dispatch:
 
 permissions:
