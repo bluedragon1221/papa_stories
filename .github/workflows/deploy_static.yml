@@ -3,7 +3,7 @@ name: Deploy Website to Github Pages
 on:
   push:
     branches: ["build"]
-    paths_ignore:
+    paths-ignore:
       - '.github/*'
       - 'README.md'
       - 'BUILDING.md'
