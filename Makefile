@@ -6,9 +6,9 @@ $(BUILD_DIR)/stories $(BUILD_DIR):
 
 ## MD Files -> HTML
 MARKDOWNFILES := $(wildcard md/*.md)
-HTMLTARGETS := $(MARKDOWNFILES:md/%.md=$(BUILD_DIR)/stories/%.html)
+HTMLTARGETS := $(patsubst md/%.md, $(BUILD_DIR)/stories/%.html, $(MARKDOWNFILES))
 
-$(BUILD_DIR)/stories/%.html: md/%.md | $(BUILD_DIR)/stories
+$(BUILD_DIR)/stories/%.html:: md/%.md | $(BUILD_DIR)/stories
 	pandoc "$<" \
 		--standalone \
 		--embed-resources \
@@ -19,9 +19,9 @@ $(BUILD_DIR)/stories/%.html: md/%.md | $(BUILD_DIR)/stories
 
 ## Shell Script -> MD Files -> HTML
 GENFILES := $(wildcard gen/gen_*.sh)
-GENTARGETS := $(GENFILES:gen/gen_%.sh=$(BUILD_DIR)/%.html)
+GENTARGETS := $(patsubst gen/gen_%.sh, $(BUILD_DIR)/%.html, $(GENFILES))
 
-$(BUILD_DIR)/%.html: gen/gen_%.sh | $(BUILD_DIR)
+$(BUILD_DIR)/%.html:: gen/gen_%.sh | $(BUILD_DIR)
 	bash $< | pandoc \
 		--standalone \
 		--embed-resources \
@@ -31,3 +31,8 @@ $(BUILD_DIR)/%.html: gen/gen_%.sh | $(BUILD_DIR)
 
 all: $(HTMLTARGETS) $(GENTARGETS)
 .PHONY: all
+.DEFAULT_GOAL := all
+
+clean:
+	rm -rf $(BUILD_DIR)
+.PHONY: clean
